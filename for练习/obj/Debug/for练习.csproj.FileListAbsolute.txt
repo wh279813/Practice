@@ -1,0 +1,5 @@
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\for练习\bin\Debug\for练习.exe.config
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\for练习\bin\Debug\for练习.exe
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\for练习\bin\Debug\for练习.pdb
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\for练习\obj\Debug\for练习.exe
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\for练习\obj\Debug\for练习.pdb

@@ -1,0 +1,6 @@
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\try-catch学习\bin\Debug\try-catch学习.exe.config
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\try-catch学习\bin\Debug\try-catch学习.exe
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\try-catch学习\bin\Debug\try-catch学习.pdb
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\try-catch学习\obj\Debug\try-catch学习.csprojResolveAssemblyReference.cache
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\try-catch学习\obj\Debug\try-catch学习.exe
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\try-catch学习\obj\Debug\try-catch学习.pdb

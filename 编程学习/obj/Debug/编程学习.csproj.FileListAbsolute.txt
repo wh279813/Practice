@@ -1,0 +1,2 @@
+c:\users\huan\documents\visual studio 2012\Projects\编程学习\编程学习\bin\Debug\编程学习.exe.config
+C:\Users\Huan\Documents\Visual Studio 2012\Projects\编程学习\编程学习\obj\Debug\编程学习.csprojResolveAssemblyReference.cache

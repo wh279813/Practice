@@ -1,0 +1,5 @@
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\泛型Icollection\bin\Debug\泛型Icollection.exe.config
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\泛型Icollection\bin\Debug\泛型Icollection.exe
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\泛型Icollection\bin\Debug\泛型Icollection.pdb
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\泛型Icollection\obj\Debug\泛型Icollection.exe
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\泛型Icollection\obj\Debug\泛型Icollection.pdb

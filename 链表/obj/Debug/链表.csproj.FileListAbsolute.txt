@@ -1,0 +1,6 @@
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\链表\bin\Debug\链表.exe.config
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\链表\bin\Debug\链表.exe
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\链表\bin\Debug\链表.pdb
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\链表\obj\Debug\链表.csprojResolveAssemblyReference.cache
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\链表\obj\Debug\链表.exe
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\链表\obj\Debug\链表.pdb

@@ -1,0 +1,6 @@
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\返回值\bin\Debug\返回值.exe.config
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\返回值\bin\Debug\返回值.exe
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\返回值\bin\Debug\返回值.pdb
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\返回值\obj\Debug\返回值.csprojResolveAssemblyReference.cache
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\返回值\obj\Debug\返回值.exe
+C:\Users\HuAn\Documents\Visual Studio 2012\Projects\编程学习\返回值\obj\Debug\返回值.pdb

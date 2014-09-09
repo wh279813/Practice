@@ -1,0 +1,6 @@
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\数组\bin\Debug\数组.exe.config
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\数组\bin\Debug\数组.exe
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\数组\bin\Debug\数组.pdb
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\数组\obj\Debug\数组.csprojResolveAssemblyReference.cache
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\数组\obj\Debug\数组.exe
+C:\Users\Huan\documents\visual studio 2012\Projects\编程学习\数组\obj\Debug\数组.pdb
